@@ -30,7 +30,6 @@
   ## 📄 requirements.txt
 
     streamlit
-    uvicorn
     langchain
     langchain-community pymupdf
     langchain-text-splitters
